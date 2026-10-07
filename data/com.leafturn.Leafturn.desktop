@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Leafturn
+Comment=Lightweight book-style PDF reader
+Exec=leafturn %U
+Icon=com.leafturn.Leafturn
+Terminal=false
+Type=Application
+Categories=Office;Graphics;Viewer;
+MimeType=application/pdf;application/x-pdf;
+Keywords=pdf;reader;ebook;book;document;
+StartupNotify=true
